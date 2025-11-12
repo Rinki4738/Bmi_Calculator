@@ -9,6 +9,7 @@ A simple **BMI (Body Mass Index) Calculator** that checks user input for **heigh
 - **Result Display**: Outputs the BMI result and health category.
 - **Error Handling**: Alerts user for invalid inputs (e.g., negative or zero values).
 - **BMI Guide**: Displays a comprehensive BMI range chart.
+## here is the link-https://bmi-calculator-mocha-alpha.vercel.app/
 
 ## Usage
 
@@ -18,6 +19,7 @@ A simple **BMI (Body Mass Index) Calculator** that checks user input for **heigh
    - Validate the input.
    - Calculate and display the BMI with a health status message.
    - Show an error message if the input is invalid.
+     
 
 ## Contributions
 Feel free to make contributions !!
